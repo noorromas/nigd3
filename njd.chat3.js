@@ -1,1 +1,116 @@
 function _0x1aee(_0x4ff759,_0x3028bc){const _0x20f493=_0x20f4();return _0x1aee=function(_0x1aee48,_0x205e56){_0x1aee48=_0x1aee48-0x1e0;let _0x120a73=_0x20f493[_0x1aee48];return _0x120a73;},_0x1aee(_0x4ff759,_0x3028bc);}function _0x20f4(){const _0x2003bd=['5379583pjPrIv','0\x200\x2010px\x20rgba(102,\x20170,\x20255,\x200.8)','ابحث\x20عن\x20أغنية\x20أو\x20فيديو...','alt','length','innerHTML','medium','\x0a\x20\x20\x20\x20position:\x20absolute;\x0a\x20\x20\x20\x20top:\x200;\x0a\x20\x20\x20\x20left:\x200;\x0a\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20z-index:\x2010000;\x0a\x20\x20\x20\x20background:\x20linear-gradient(45deg,\x20#2C2C2C,\x20#1A1A1A);\x0a\x20\x20\x20\x20color:\x20#fff;\x0a\x20\x20\x20\x20border:\x20none;\x0a\x20\x20\x20\x20border-radius:\x200;\x0a\x20\x20\x20\x20padding:\x2010px\x200;\x0a\x20\x20\x20\x20font-size:\x2016px;\x0a\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20align-items:\x20center;\x0a\x20\x20\x20\x20justify-content:\x20center;\x0a\x20\x20\x20\x20box-shadow:\x200\x202px\x205px\x20rgba(0,0,0,0.3);\x0a\x20\x20\x20\x20transition:\x20transform\x200.2s,\x20box-shadow\x200.2s;\x0a\x20\x20','0\x200\x206px\x20rgba(0,0,0,0.7)','40SpzSmf','src','textContent','thumbnails','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x206px\x204px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x2050px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20overflow:\x20hidden;\x0a\x20\x20\x20\x20\x20\x20\x20\x20','روائع\x20نجد\x20للجوال\x20ابحث\x20في\x20اليوتيوب','2514725rRUenN','button','items','&key=','title','addEventListener','focus','mouseout','\x0a\x20\x20\x20\x20<div\x20style=\x22font-weight:bold;\x20font-size:13px;\x20color:#ddd;\x20margin-bottom:3px;\x22>حقوق\x20شات\x20نجد\x20للجوال</div>\x0a\x20\x20\x20\x20<div>تصميم\x20ومبرمج\x20رمادي\x20ديزاين</div>\x0a\x20\x20\x20\x20<div>رقم\x20الجوال:\x20<a\x20href=\x22https://wa.me/967778436340\x22\x20target=\x22_blank\x22\x20style=\x22color:#66aaff;\x20text-decoration:underline;\x22>+967\x20778\x20436\x20340</a></div>\x0a\x20\x20','block','relative','json','appendChild','21iooACA','forEach','div','10WTsNTa','img','cssText','placeholder','style','width:\x20100%;\x20height:\x2090px;\x20object-fit:\x20cover;','click','transform','\x0a\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20flex-wrap:\x20wrap;\x0a\x20\x20\x20\x20gap:\x2010px;\x0a\x20\x20\x20\x20max-height:\x20250px;\x0a\x20\x20\x20\x20overflow-y:\x20auto;\x0a\x20\x20\x20\x20background:\x20rgba(255,255,255,0.05);\x0a\x20\x20\x20\x20padding:\x208px;\x0a\x20\x20\x20\x20border-radius:\x2010px;\x0a\x20\x20\x20\x20border:\x201px\x20solid\x20#555;\x0a\x20\x20','boxShadow','prepend','scale(1)','https://up6.cc/2025/01/173802357017121.png','value','getElementById','https://www.googleapis.com/youtube/v3/search?part=snippet&type=video&maxResults=8&q=','width:\x2027px;\x20height:\x2020px;\x20margin-right:\x208px;','querySelector','1812804oguMpV','trim','display','videoId','لم\x20يتم\x20العثور\x20على\x20مربع\x20كتابة\x20الرسائل!','233271kYiCRv','844518ZxRCTu','mouseover','width:\x2027px;\x20height:\x2020px;\x20margin-left:\x208px;','AIzaSyCjQRDBvIGoYYfm8Gt5qFYSi-OqFJJ7hHE','413889vimzVc','input','<p\x20style=\x22color:#ff6666;\x20width:\x20100%;\x22>❌\x20لم\x20يتم\x20العثور\x20على\x20نتائج.</p>','createElement','none','error','\x0a\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20font-size:\x2012px;\x0a\x20\x20\x20\x20color:\x20#ccc;\x0a\x20\x20\x20\x20margin-top:\x2010px;\x0a\x20\x20\x20\x20line-height:\x201.4;\x0a\x20\x20\x20\x20padding:\x208px;\x0a\x20\x20\x20\x20background:\x20transparent;\x0a\x20\x20\x20\x20border-top:\x201px\x20solid\x20#555;\x0a\x20\x20','968tQpTsq','snippet','خطأ\x20في\x20الاتصال\x20بـ\x20YouTube\x20API','url','wall','50859otrpXV'];_0x20f4=function(){return _0x2003bd;};return _0x20f4();}(function(_0x357cd3,_0x2f5811){const _0x2e26ba=_0x1aee,_0x390fba=_0x357cd3();while(!![]){try{const _0x38741e=-parseInt(_0x2e26ba(0x1fa))/0x1+-parseInt(_0x2e26ba(0x1f0))/0x2+parseInt(_0x2e26ba(0x1f5))/0x3*(parseInt(_0x2e26ba(0x210))/0x4)+parseInt(_0x2e26ba(0x216))/0x5+parseInt(_0x2e26ba(0x1f6))/0x6*(parseInt(_0x2e26ba(0x223))/0x7)+-parseInt(_0x2e26ba(0x201))/0x8*(-parseInt(_0x2e26ba(0x206))/0x9)+parseInt(_0x2e26ba(0x226))/0xa*(-parseInt(_0x2e26ba(0x207))/0xb);if(_0x38741e===_0x2f5811)break;else _0x390fba['push'](_0x390fba['shift']());}catch(_0x3bdf2d){_0x390fba['push'](_0x390fba['shift']());}}}(_0x20f4,0x8ceb1),(function(){const _0x11c1ae=_0x1aee,_0x35de51=document[_0x11c1ae(0x1ec)](_0x11c1ae(0x205));if(!_0x35de51)return;const _0x486188=document[_0x11c1ae(0x1fd)](_0x11c1ae(0x217));_0x486188[_0x11c1ae(0x212)]=_0x11c1ae(0x215),_0x486188[_0x11c1ae(0x1e2)][_0x11c1ae(0x1e0)]=_0x11c1ae(0x20e);const _0x1cc0cb=_0x11c1ae(0x1ea),_0x51c909=document[_0x11c1ae(0x1fd)]('img');_0x51c909[_0x11c1ae(0x211)]=_0x1cc0cb,_0x51c909[_0x11c1ae(0x1e2)][_0x11c1ae(0x1e0)]=_0x11c1ae(0x1ee);const _0x279f13=document[_0x11c1ae(0x1fd)]('img');_0x279f13[_0x11c1ae(0x211)]=_0x1cc0cb,_0x279f13[_0x11c1ae(0x1e2)][_0x11c1ae(0x1e0)]=_0x11c1ae(0x1f8),_0x486188[_0x11c1ae(0x1e8)](_0x51c909),_0x486188[_0x11c1ae(0x222)](_0x279f13);const _0x2ca89e=document[_0x11c1ae(0x1fd)]('div');_0x2ca89e[_0x11c1ae(0x1e2)][_0x11c1ae(0x1e0)]='\x0a\x20\x20\x20\x20position:\x20relative;\x0a\x20\x20\x20\x20display:\x20none;\x0a\x20\x20\x20\x20margin-top:\x2045px;\x0a\x20\x20\x20\x20padding:\x2015px;\x0a\x20\x20\x20\x20background:\x20linear-gradient(135deg,\x20#2c2c2c,\x20#4a4a4a);\x0a\x20\x20\x20\x20border-radius:\x2012px;\x0a\x20\x20\x20\x20box-shadow:\x200\x204px\x2010px\x20rgba(0,0,0,0.2);\x0a\x20\x20\x20\x20max-width:\x20500px;\x0a\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20color:\x20#fff;\x0a\x20\x20';const _0x1a371d=document[_0x11c1ae(0x1fd)]('input');_0x1a371d[_0x11c1ae(0x1e1)]=_0x11c1ae(0x209),_0x1a371d['style'][_0x11c1ae(0x1e0)]='\x0a\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20padding:\x2015px;\x0a\x20\x20\x20\x20font-size:\x2016px;\x0a\x20\x20\x20\x20border:\x201px\x20solid\x20#666;\x0a\x20\x20\x20\x20border-radius:\x2012px;\x0a\x20\x20\x20\x20outline:\x20none;\x0a\x20\x20\x20\x20box-shadow:\x20inset\x200\x202px\x204px\x20rgba(0,0,0,0.5);\x0a\x20\x20\x20\x20margin-bottom:\x2015px;\x0a\x20\x20\x20\x20background-color:\x20#3a3a3a;\x0a\x20\x20\x20\x20color:\x20#eee;\x0a\x20\x20';const _0x1a507f=document[_0x11c1ae(0x1fd)](_0x11c1ae(0x225));_0x1a507f[_0x11c1ae(0x1e2)][_0x11c1ae(0x1e0)]=_0x11c1ae(0x1e6);const _0x3dfe93=document[_0x11c1ae(0x1fd)](_0x11c1ae(0x225));_0x3dfe93[_0x11c1ae(0x1e2)][_0x11c1ae(0x1e0)]=_0x11c1ae(0x200),_0x3dfe93[_0x11c1ae(0x20c)]=_0x11c1ae(0x21e),_0x2ca89e[_0x11c1ae(0x222)](_0x1a371d),_0x2ca89e['appendChild'](_0x1a507f),_0x2ca89e[_0x11c1ae(0x222)](_0x3dfe93),_0x35de51['style']['position']=_0x11c1ae(0x220),_0x35de51[_0x11c1ae(0x1e8)](_0x486188),_0x35de51[_0x11c1ae(0x1e8)](_0x2ca89e),_0x486188[_0x11c1ae(0x21b)](_0x11c1ae(0x1e4),()=>{const _0x4005a3=_0x11c1ae;_0x2ca89e[_0x4005a3(0x1e2)][_0x4005a3(0x1f2)]===_0x4005a3(0x1fe)?(_0x2ca89e['style'][_0x4005a3(0x1f2)]=_0x4005a3(0x21f),_0x1a371d[_0x4005a3(0x21c)]()):(_0x2ca89e[_0x4005a3(0x1e2)][_0x4005a3(0x1f2)]=_0x4005a3(0x1fe),_0x1a507f[_0x4005a3(0x20c)]='',_0x1a371d[_0x4005a3(0x1eb)]='');});const _0x374552=_0x11c1ae(0x1f9);async function _0x2aee84(_0x4f5f1c){const _0x1df234=_0x11c1ae;if(!_0x4f5f1c){_0x1a507f[_0x1df234(0x20c)]='';return;}_0x1a507f[_0x1df234(0x20c)]='<p\x20style=\x22color:#ccc;\x20width:\x20100%;\x22>⏳\x20جاري\x20البحث...</p>';try{const _0x261e6c=await fetch(_0x1df234(0x1ed)+encodeURIComponent(_0x4f5f1c)+_0x1df234(0x219)+_0x374552);if(!_0x261e6c['ok'])throw new Error(_0x1df234(0x203));const _0x589506=await _0x261e6c[_0x1df234(0x221)]();if(!_0x589506['items']||_0x589506[_0x1df234(0x218)][_0x1df234(0x20b)]===0x0){_0x1a507f['innerHTML']=_0x1df234(0x1fc);return;}_0x1a507f[_0x1df234(0x20c)]='',_0x589506[_0x1df234(0x218)][_0x1df234(0x224)](_0x23d9a9=>{const _0x5624ab=_0x1df234,_0x41fb81=_0x23d9a9['id'][_0x5624ab(0x1f3)],_0x3b4b44=_0x23d9a9[_0x5624ab(0x202)][_0x5624ab(0x21a)],_0x86a88c=_0x23d9a9[_0x5624ab(0x202)][_0x5624ab(0x213)][_0x5624ab(0x20d)][_0x5624ab(0x204)],_0x5241a3=document[_0x5624ab(0x1fd)](_0x5624ab(0x225));_0x5241a3['style'][_0x5624ab(0x1e0)]='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20120px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20overflow:\x20hidden;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x200\x206px\x20rgba(0,0,0,0.7);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20transform\x200.2s;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(135deg,\x20#444,\x20#222);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#eee;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2013px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex-direction:\x20column;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20align-items:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20',_0x5241a3['title']=_0x3b4b44;const _0x1d7e3e=document[_0x5624ab(0x1fd)](_0x5624ab(0x227));_0x1d7e3e['src']=_0x86a88c,_0x1d7e3e[_0x5624ab(0x20a)]=_0x3b4b44,_0x1d7e3e[_0x5624ab(0x1e2)]['cssText']=_0x5624ab(0x1e3);const _0x3ffc4f=document[_0x5624ab(0x1fd)]('div');_0x3ffc4f[_0x5624ab(0x212)]=_0x3b4b44,_0x3ffc4f['style'][_0x5624ab(0x1e0)]=_0x5624ab(0x214),_0x5241a3[_0x5624ab(0x222)](_0x1d7e3e),_0x5241a3[_0x5624ab(0x222)](_0x3ffc4f),_0x5241a3[_0x5624ab(0x21b)]('click',()=>{const _0x23e060=_0x5624ab,_0xfaa612=document[_0x23e060(0x1ef)]('#wall\x20textarea[placeholder=\x22✎\x20كتــب\x20رسالتك\x22]');_0xfaa612?(_0xfaa612['value']+='\x20'+_0x3b4b44,_0xfaa612['focus']()):alert(_0x23e060(0x1f4)),_0x2ca89e['style'][_0x23e060(0x1f2)]='none',_0x1a507f[_0x23e060(0x20c)]='',_0x1a371d[_0x23e060(0x1eb)]='';}),_0x5241a3[_0x5624ab(0x21b)](_0x5624ab(0x1f7),()=>{const _0x285df1=_0x5624ab;_0x5241a3[_0x285df1(0x1e2)]['transform']='scale(1.05)',_0x5241a3[_0x285df1(0x1e2)][_0x285df1(0x1e7)]=_0x285df1(0x208);}),_0x5241a3['addEventListener'](_0x5624ab(0x21d),()=>{const _0x16b444=_0x5624ab;_0x5241a3['style'][_0x16b444(0x1e5)]=_0x16b444(0x1e9),_0x5241a3[_0x16b444(0x1e2)][_0x16b444(0x1e7)]=_0x16b444(0x20f);}),_0x1a507f[_0x5624ab(0x222)](_0x5241a3);});}catch(_0x49a283){_0x1a507f[_0x1df234(0x20c)]='<p\x20style=\x22color:#ff4444;\x20width:\x20100%;\x22>⚠️\x20تعذر\x20إكمال\x20البحث.\x20حاول\x20لاحقاً.</p>',console[_0x1df234(0x1ff)](_0x49a283);}}let _0xfc2c08;_0x1a371d[_0x11c1ae(0x21b)](_0x11c1ae(0x1fb),()=>{clearTimeout(_0xfc2c08),_0xfc2c08=setTimeout(()=>{const _0x20ef9c=_0x1aee;_0x2aee84(_0x1a371d['value'][_0x20ef9c(0x1f1)]());},0x258);});}()));
+
+
+
+
+(function() {
+  const usersElem = document.getElementById("users"); // أو غيرها حسب عنصر قائمة الأعضاء
+  if (!usersElem) {
+    console.error("العنصر #users غير موجود");
+    return;
+  }
+
+  // إنشاء حاوية القصص كما قبل
+  const storyDiv = document.createElement("div");
+  storyDiv.id = "story";
+  Object.assign(storyDiv.style, {
+    position: "relative",
+    display: "flex",
+    overflowX: "auto",
+    width: "100%",
+    flexDirection: "row",
+    flexWrap: "nowrap",
+    alignItems: "center",
+    overflowY: "hidden",
+    border: "0",
+    background: "#fafafa",
+    borderRadius: "1.2rem",
+    padding: "10px",
+    gap: "12px",
+    marginBottom: "10px"
+  });
+
+  // زر إضافة قصة
+  const addStoryDiv = document.createElement("div");
+  addStoryDiv.className = "addstory";
+  Object.assign(addStoryDiv.style, {
+    position: "relative",
+    textAlign: "center",
+    width: "70px",
+    height: "70px",
+    minWidth: "70px",
+    maxWidth: "70px",
+    minHeight: "70px",
+    maxHeight: "70px",
+    borderRadius: "50%",
+    boxShadow: "0 2px 6px rgba(0,0,0,0.15)",
+    background: "white",
+    cursor: "pointer",
+    display: "flex",
+    justifyContent: "center",
+    alignItems: "center",
+  });
+
+  const img = document.createElement("img");
+  img.className = "img_str";
+  Object.assign(img.style, {
+    width: "62px",
+    height: "62px",
+    border: "2px solid #d9534f",
+    padding: "2px",
+    borderRadius: "50%",
+    objectFit: "cover",
+    backgroundSize: "cover",
+    transition: "transform 0.3s ease",
+  });
+  img.alt = "add story";
+  img.src = "/pic/1751991978832.png.webp";
+
+  img.onclick = () => {
+    alert("تم الضغط على إضافة قصة!");
+  };
+
+  const plusIcon = document.createElement("i");
+  plusIcon.className = "fa fa-plus-circle";
+  Object.assign(plusIcon.style, {
+    fontSize: "22px",
+    position: "absolute",
+    bottom: "4px",
+    right: "4px",
+    background: "white",
+    borderRadius: "50%",
+    color: "#c9302c",
+    boxShadow: "0 0 4px rgba(0,0,0,0.2)",
+    transition: "color 0.3s ease",
+    cursor: "pointer",
+  });
+  plusIcon.onclick = img.onclick;
+
+  addStoryDiv.appendChild(img);
+  addStoryDiv.appendChild(plusIcon);
+
+  storyDiv.appendChild(addStoryDiv);
+
+  // مكان لقصص أخرى (فارغ حالياً)
+  const itemsStoryDiv = document.createElement("div");
+  itemsStoryDiv.className = "itemstory";
+  Object.assign(itemsStoryDiv.style, {
+    display: "inline-flex",
+    marginTop: "0",
+    flexDirection: "row",
+    gap: "12px",
+    alignItems: "center",
+  });
+  storyDiv.appendChild(itemsStoryDiv);
+
+  // **هنا نقطة مهمة جداً:**
+  // بدل حذف محتوى usersElem، نضيف قصة فوق القائمة:
+
+  // usersElem.prepend(storyDiv); // تضيف القصص في أعلى قائمة الأعضاء
+  // أو usersElem.appendChild(storyDiv); // تضيفها في الأسفل
+
+  // جرب هذه السطر:
+  usersElem.parentNode.insertBefore(storyDiv, usersElem);
+
+  // بهذه الطريقة القصص تظهر فوق قائمة الأعضاء بدون حذفها أو التأثير عليها
+})();
